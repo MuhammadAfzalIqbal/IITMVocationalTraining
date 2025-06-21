@@ -1,2 +1,2 @@
-# IITMVocationalTraining
+# Minor project 
 IITM vocational training codes
